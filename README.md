@@ -1,31 +1,20 @@
 # 🌐 Personal Portfolio Website
 
 This is my personal portfolio website built to showcase my background, skills, and projects.  
-It serves as both an online resume and a space to present the work I’ve done in the fields of **telecommunication, AI, and network engineering**.
+It serves as both an online resume and a space to present the work I’ve done in the fields.
 
----
 
-## 🚀 Overview
-
-This website highlights:
-- **About Me** – A brief introduction to who I am and my career path.  
-- **Skills** – Core technical expertise in areas such as RF Engineering, Networking, and AI/ML.  
-- **Projects** – Selected projects demonstrating problem-solving, technical depth, and creativity.  
-- **Contact** – Ways to reach me for collaboration or job opportunities.  
-
----
 
 ## 🧰 Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Languages** | Python / Node.js |
+| **Languages** | Python |
 | **Tools** | WSL(Ubuntu) / jupyter python |
 | **Deployment** | GitHub Pages |
 | **Version Control** | Git & GitHub |
 
 ---
 
-## 📂 Project Structure
 
