@@ -19,10 +19,10 @@ This website highlights:
 
 | Category | Technologies |
 |-----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript (or React, if used) |
-| **Styling** | Tailwind CSS / Bootstrap |
-| **Backend** | (Optional) FastAPI / Node.js |
-| **Deployment** | GitHub Pages / Vercel / Netlify |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Languages** | Python / Node.js |
+| **Tools** | WSL(Ubuntu) / jupyter python |
+| **Deployment** | GitHub Pages |
 | **Version Control** | Git & GitHub |
 
 ---
