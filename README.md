@@ -11,8 +11,7 @@ It serves as both an online resume and a space to present the work I’ve done i
 |-----------|---------------|
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Languages** | Python |
-| **Tools** | WSL(Ubuntu) / jupyter python |
-| **Deployment** | GitHub Pages |
+| **Tools** | VM(Linux) / jupyter python |
 | **Version Control** | Git & GitHub |
 
 ---
