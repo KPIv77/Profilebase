@@ -53,7 +53,7 @@ section {
 }
 
 .hero h1 {
-    font-size: clamp(3rem, 8vw, 7rem);
+    font-size: clamp(3rem, 7.5vw, 6rem);
     font-weight: 700;
     letter-spacing: 2px;
     line-height: 1.2;
@@ -77,6 +77,11 @@ section {
     color: white;
     border-radius: 50px;
     text-decoration: none;
+}
+
+.btn:hover {
+    background-color: #bfdfea;
+    transform: translateY(-5px);
 }
 
 /*--------------------------------------------------------Summary short--------------------------------------------------------*/
@@ -132,6 +137,7 @@ section {
 }
 
 .card:hover {
+    background-color: rgb(178, 178, 178);
     transform: translateY(-5px);
 }
 
