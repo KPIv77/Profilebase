@@ -13,7 +13,7 @@ It serves as both an online resume and a space to present the work I’ve done i
 |-----------|---------------|
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Languages** | Python |
-| **Tools** | VM(Linux) / jupyter python |
+| **Tools** | VM(Linux) / jupyter notebook |
 | **Version Control** | Git & GitHub |
 
 ---
