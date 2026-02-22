@@ -11,7 +11,7 @@ It serves as both an online resume and a space to present the work I’ve done i
 
 | Category | Technologies |
 |-----------|---------------|
-| **Frontend** | HTML5, CSS3, JavaScript |
+| **Frontend** | HTML/CSS/JavaScript |
 | **Languages** | Python/Node.js |
 | **Version Control** | Git & GitHub |
 
