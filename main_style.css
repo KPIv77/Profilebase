@@ -6,6 +6,16 @@
     font-family: sans-serif;
 }
 
+:root {
+    --bg: #f7f6f2;
+    --ink: #111111;
+    --accent: #00bfff;
+    --accent-dim: rgba(0,191,255,0.12);
+    --muted: #777772;
+    --card-bg: #ffffff;
+    --border: #e3e2dc;
+}
+
 body {
     line-height: 1.6;
 
