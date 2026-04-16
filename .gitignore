@@ -1,0 +1,28 @@
+# Logs
+port_page/logs
+*.log
+port_page/npm-debug.log*
+port_page/yarn-debug.log*
+port_page/yarn-error.log*
+port_page/pnpm-debug.log*
+port_page/lerna-debug.log*
+
+port_page/node_modules
+port_page/dist
+port_page/dist-ssr
+port_page/*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+port_page/src/assets/
+port_page/public/
