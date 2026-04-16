@@ -3,6 +3,8 @@ import "./App.css";
 export default function App() {
   return (
     <>
+	<div className="grain"></div>
+
 	<header>
 		<nav className="head">
 			<div className="logo"> Kitisak K. </div>
@@ -15,7 +17,8 @@ export default function App() {
 
 	<section className="hero">
 		<div className="hero-content">
-			<h1>Hello, I'm Kitisak K.</h1>
+			<p className="hero-eyebrow">Hello, I'm</p>
+			<h1>Kitisak <span>P.</span></h1>
 			<p>Telecommunication Engineer</p>
 		</div>
 	</section>
