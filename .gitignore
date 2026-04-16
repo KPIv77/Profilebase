@@ -22,6 +22,8 @@ port_page/*.local
 *.njsproj
 *.sln
 *.sw?
+.env
+.env.local
 
 
 port_page/src/assets/
